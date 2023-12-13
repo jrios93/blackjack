@@ -22,5 +22,5 @@ body {
 
 #jugador-cartas,
 #computador-cartas {
-  width: 250px;
+  height: 250px;
 }
